@@ -1,4 +1,4 @@
-## Python Program to Insert Elements at Rear End of Deque Using collections Module
+## Insert Elements at Rear End of Deque Using collections Module
 
 ## Aim:
 To use Python’s collections.deque and insert characters 'h', 'o', and 'n' at the rear end of the deque.
